@@ -14,11 +14,8 @@
 #titulo-menuprincipal{
     font-size: 60px;
     font-weight: 600;
-    margin-right: 200px;
     line-height: 72px;
-    letter-spacing: -0.025em;
-    text-align: left;
-    text-underline-position: from-font;
+    letter-spacing: -2.5%;
     text-decoration-skip-ink: none;
 
 }
@@ -28,8 +25,6 @@
     font-weight: 500;
     margin-bottom: 60px;
     line-height: 28px;
-    text-align: left;
-    text-underline-position: from-font;
     text-decoration-skip-ink: none;
 
 }
@@ -38,9 +33,10 @@
     display: grid;
     grid-auto-flow: column;
     columns: auto;
-    padding: 40px;
     background-color: #F9F9F9;
-
+    height: 229px;
+    padding-top: 50px;
+    padding-left: 85px;
 
 }
 
@@ -54,6 +50,8 @@
 .paragrafo-menu{
     color: #000000;
     margin: 50px;
+    
+
 }
 
 
@@ -69,31 +67,30 @@
 
 
 #conteudo-completo{
-    margin-left: 40px;
+    width: 735px;
+    height: 161px;
     padding: 40px;
+    margin-top: 100px;
 
 
 }
 
 
 #imagem-sala{
-   margin-top: 50px;
-   margin-bottom: 25px;
+   margin-top: 82px;
+   margin-bottom: 92px;
    width: 510px;
-   margin-left: 410px;
-   margin-right: 20px;
    height: 605px;
+  
 
 
 }
 
 #titulo-conteudo{
-    font-family: Inter;
-    font-size: 36px;
-    font-weight: 500px;
+    font-size: 30px;
+    font-weight: 200px;
     line-height: 20px;
     text-align: left;
-    text-underline-position: from-font;
     text-decoration-skip-ink: none;
     margin-top: 220px;
     
@@ -103,17 +100,18 @@
 
 
 #texto{
-    font-family: Inter;
     font-size: 24px;
     font-weight: 300px;
     line-height: 30px;
-    text-align: left;
-    text-underline-position: from-font;
     text-decoration-skip-ink: none;
     margin-top: 80px;
     
 
+}
 
+#span{
+    font-size: 40px;
+    font-weight: 500;
 }
 
 
@@ -132,6 +130,7 @@
     text-align: center;
     line-height: 48px;
     font-weight: 700px;
+    
 
 }
 
@@ -173,6 +172,7 @@
     font-weight: 700px;
     font-size: 25px;
     cursor: pointer;
+   
 }
 
 #botao-fale-conosco:hover{
