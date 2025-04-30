@@ -1,4 +1,6 @@
-# RID-160798_Desafio01
+# Desafio 01
+
+Landing Page básica feita com HTML e CSS
 
 link planilha de informações: https://docs.google.com/spreadsheets/d/1xrvRfSsieoHJG53fGRrwiIWZsNQwL9tZuLmmYMwg28k/edit?gid=0#gid=0
 
